@@ -39,9 +39,6 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 This is acheived in collaboration with Onkar Daeker <onkardarekar19@gmail.com>
 
