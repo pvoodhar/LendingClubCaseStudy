@@ -1,11 +1,15 @@
 # Lending Case Study
 > This case study tries to analyse the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 
+# Project Name
+> Outline a brief description of your project.
+
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Contact](#contact)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -21,14 +25,28 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Conclusions
+- 
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 ## Technologies Used
-- pandas
+- Pandas
+- Seaborn
+- Matplotlib
 
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- References if any...
+- This project was based on [this tutorial](https://www.example.com).
+
+This is acheived in collaboration with Onkar 
 
 ## Contact
-Created by [@lasrado] - feel free to contact me!
+Created by [@pvoodhar] - feel free to contact me!
 
 
 <!-- Optional -->
