@@ -43,7 +43,7 @@ Give credit here.
 - References if any...
 - This project was based on [this tutorial](https://www.example.com).
 
-This is acheived in collaboration with Onkar 
+This is acheived in collaboration with Onkar Daeker <onkardarekar19@gmail.com>
 
 ## Contact
 Created by [@pvoodhar] - feel free to contact me!
