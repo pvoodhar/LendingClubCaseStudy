@@ -23,9 +23,9 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 
 #### Quantative Variables 
-** loan_amnt, funded_amnt, installment,int_rate,emp_length,dti ,total_pymnt, annual_inc **
+loan_amnt, funded_amnt, installment,int_rate,emp_length,dti ,total_pymnt, annual_inc 
 #### Un Ordered Categorical Variable 
-** term, loan_status, Purpose, grade, home ownership **
+term, loan_status, Purpose, grade, home ownership 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
