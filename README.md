@@ -22,11 +22,32 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 - The data set is from a lending company which has collected data over 3 years.
 
 
+### Quantative Variables : loan_amnt, funded_amnt, installment,int_rate,emp_length,dti ,total_pymnt, annual_inc 
+### Un Ordered Categorical Variable - term, loan_status, Purpose, grade, home ownership
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- 
+### Outcomes of Univariate Analysis 
+   - Most of the loans has been offered at interest from 12% to 15% 
+   - 14.17% of total Loans are Charged Off
+   - When the Loan Amount Increases then the Total Payment is decreased
+   - There are quite considerable number of Loans which are Not Verified which requires Further analysis
+   - dti ratio is acceptable , where the Debt to Income is not making big impact 
+   - Employess with more exprience is taking more loans
+   - home_ownership  with RENT and MORTGAGE were taking more loans
+   - More loans were being taken for Debit Consolidation 
+   - All the loans taken with either tenure of 36 or 60 months 
+   - Tops Grades were taking more loans ( A, B C )
+### Outcomes of Segmened Univariate Analysis
+   - There is a increase in Number of loans each year  from Q1 to Q4.
+### Outcomes of Bi Variate Analysis
+   - When Loan Amount/interest rate/debt to income ration/employment Lenth increases then there is risk of getting defaulters 
+   - Members with low Debt to Income Ratio and high annual income have less tendency to get charged off
+   - Members with house ownership status as "Others" tend to default the rate by 18%.
+   - Whereas, Members in category of Mortgage and own house has less tendendency  to be defaulters  compared to other categories.
+
+ 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
