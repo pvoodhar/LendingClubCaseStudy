@@ -63,10 +63,10 @@ term, loan_status, Purpose, grade, home ownership
 ## Acknowledgements
 Give credit here.
 
-This is acheived in collaboration with Onkar Daeker <onkardarekar19@gmail.com>
+This is acheived in collaboration with Onkar Ankush Darekar <onkardarekar19@gmail.com>
 
 ## Contact
-Created by [@pvoodhar] - feel free to contact me!
+Created by [@pvoodhar][@onkar1920] - feel free to contact me!
 
 
 <!-- Optional -->
